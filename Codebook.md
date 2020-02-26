@@ -96,3 +96,8 @@
 * fBodyBodyGyroJerkMagMeanFreq
 
 ## Data Modification
+- The training and test sets were merged
+- The measurements on the mean and standard deviation were extracted for each measurement
+- The activity identifiers were replaced with descriptive activity names.
+- The variable names were replaced with descriptive variable names 
+- Special characters were removed
