@@ -6,4 +6,4 @@
 ### files:
 - `run_analysis.R` - script 
 - `CodeBook.md.` variables and data description 
-- 'tidy_data.txt' - tidy data set
+- `tidy_data.txt` - tidy data set
