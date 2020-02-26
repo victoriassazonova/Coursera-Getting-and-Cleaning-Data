@@ -1,4 +1,4 @@
-# This is the code book for my project in Coursera *Getting and Cleaning Data* 
+# This is the code book for my project in Coursera Getting and Cleaning Data 
 
 ## Data
 
@@ -94,3 +94,5 @@
 * fBodyBodyGyroJerkMagMean
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
+
+## Data Modification
